@@ -3,7 +3,7 @@ programa {
     
     inteiro numero,contador
 
-    escreva("número da tabuada que desejas baby: ")
+    escreva("número da tabuada que desejas: ")
     leia(numero)
 
     para(contador = 1; contador <= 10; contador++){
